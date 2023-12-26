@@ -1,1 +1,2 @@
 # AI-art-contest
+This was a small project to explore the possiblitites of using AI to "judge" art. In this project, a user picks an art genre from the drop down menu and inputs their desired prompt, generating 5 ai art pieces. These pieces are then fed into a neural network for classification as either "good art" or "bad art". The classification of the art, as well as the confidence score are displayed next to each piece.
